@@ -1,0 +1,18 @@
+import UIKit
+
+var chairName = "My legendary chairs"
+var chairAmount = 2
+var chairCondition = "perfect"
+var chairLegs = 4
+var chairSeat = "soft"
+var chairArmrests = true
+var chairMaterial = "wood"
+var chairColor = "brown"
+var chairAge = 3
+var chairHeight = 60
+var chairWidth = 40
+var chairWeight = 400
+var chairType = "office"
+var chairAccessoires = ["peaks", "dicks"]
+var chairOwnership = ["your", "your mom"]
+var chairLocation = ["kitchen", "balcony"]
