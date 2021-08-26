@@ -13,6 +13,6 @@ var chairHeight = 60
 var chairWidth = 40
 var chairWeight = 400
 var chairType = "office"
-var chairAccessoires = ["peaks", "dicks"]
+var chairAccessoires = ["pikes", "dicks"]
 var chairOwnership = ["your", "your mom"]
 var chairLocation = ["kitchen", "balcony"]
